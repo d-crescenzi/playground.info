@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.crescenzi.playground",
+      "sha256_cert_fingerprints": [
+        "3C:55:A4:43:55:58:F8:E2:F4:68:27:BE:14:B8:AC:FD:D3:9B:21:AE:E8:31:60:82:E4:7E:EA:C6:34:3E:7C:3B"
+      ]
+    }
+  }
+]
